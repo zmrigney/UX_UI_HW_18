@@ -2,7 +2,7 @@ body {
   margin: 0;
 }
 header {
-  background-color: #373738;
+  background-color: #003806;
   padding: 15px;
 }
 header ul {
@@ -20,6 +20,9 @@ header p {
   background-color: #EBEBEB;
   padding: 100px 15px;
 }
+.HeroImage {
+  max-width: 300px;
+}
 .content {
   max-width: 300px;
   margin: 0 auto;
@@ -35,7 +38,7 @@ button {
   border-radius: 4px;
 }
 footer {
-  background-color: #373738;
+  background-color: #003806;
   padding: 5px;
   color: white;
 }
